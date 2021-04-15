@@ -1,0 +1,159 @@
+
+@import "../template/mixins";
+@import "../template/settings"; // ---------------------------------------------
+// Include theme-specific fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap'); // Google Font
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap'); // Override theme settings (see ../template/settings.scss)
+$backgroundColor: #000;
+$mainColor: #fff;
+$headingColor: #fff;
+$mainFontSize: 42px;
+$mainFont: 'Source Sans Pro', sans-serif;
+$headingFont: 'Poppins', sans-serif;
+$codeFont: 'Fira Code', monospace;
+$iconFont: 'Font Awesome 5 Pro';
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #cc0200;
+$linkColorHover: lighten($linkColor, 15%);
+$selectionBackgroundColor: lighten($linkColor, 15%);
+$heading1Size: 2.2em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em; // Change text colors against light slide backgrounds
+@include light-bg-text-color(#222); // Theme template ------------------------------
+@import "../template/theme"; // ---------------------------------------------
+
+
+// Bullet
+
+.reveal {
+  ul {
+    margin-left: 0;
+    list-style: none;
+
+    li {
+      &::before {
+        margin-right: 16px;
+        content: "\2022";
+        color: $linkColor;
+        font-family: $iconFont;
+        font-weight: bold;
+        display: inline-block;
+      }
+    }
+  }
+}
+
+
+// Code theme
+
+.reveal {
+
+    :not(pre) > code {
+     border-radius: 8px;
+     background: rgba(#fff, 0.09);
+     padding: 0 12px;
+     color: $linkColor;
+   }
+
+}
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: rgba(#fff, 0.09);
+}
+
+.hljs,
+.hljs-subst,
+.hljs-tag {
+  color: #fff;
+}
+
+.hljs-emphasis,
+.hljs-strong {
+  color: #a8a8a2;
+}
+
+.hljs-bullet,
+.hljs-link,
+.hljs-literal,
+.hljs-number,
+.hljs-quote,
+.hljs-regexp {
+  color: $linkColor;
+}
+
+.hljs-code,
+.hljs-section,
+.hljs-selector-class,
+.hljs-title {
+  color: #ED5412;
+}
+
+.hljs-strong {
+  font-weight: 600;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-attr,
+.hljs-keyword,
+.hljs-name,
+.hljs-selector-tag {
+  color: $linkColor;
+}
+
+.hljs-attribute,
+.hljs-symbol {
+  color: #36D750;
+}
+
+.hljs-class .hljs-title,
+.hljs-params {
+  color: #fff;
+}
+
+.hljs-addition,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-attr,
+.hljs-selector-id,
+.hljs-selector-pseudo,
+.hljs-string,
+.hljs-template-variable,
+.hljs-type,
+.hljs-variable {
+  color: #ffbe0f;
+}
+
+.hljs-comment,
+.hljs-deletion,
+.hljs-meta {
+  color: #75715e;
+}
+
+// Icon
+
+.reveal {
+  i {
+    margin: 0 8px;
+  }
+}
+// Blocquote
+
+.reveal {
+  blockquote {
+    padding: 5px 12px;
+    width: 100%;
+    box-shadow: none;
+    background: rgba(#fff, 0.09);
+
+  }
+}
