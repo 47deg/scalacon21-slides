@@ -10,3 +10,5 @@ This is the base template for [reveal.js](https://revealjs.com/) that we use to 
 
 ## Markdown
 We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk.
+
+[I'm an inline-style link](https://47deg.github.io/scalacon21-reveal/)
