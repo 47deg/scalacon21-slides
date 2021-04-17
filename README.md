@@ -7,9 +7,9 @@ For our event we have prepared 3 basic templates with the colors and fonts of ou
 
 ## Reveal.js
 
-This is the base template for [reveal.js](https://revealjs.com/) that you can use in your talk.
+This is the base template for [reveal.js](https://47deg.github.io/scalacon21-slides/) that you can use in your talk.
 
-We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk. [You can see it here](https://47deg.github.io/scalacon21-slides/)
+We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk.
 
 ### Istallation
 
