@@ -19,21 +19,21 @@ We use markdown. To add the content, you must update the `slides/01.md`. In this
 
 ## Google Slides
 
-This is the base template for [Google Slides](#) that you can use in your talk.
+This is the base template for [Google Slides](https://docs.google.com/presentation/d/1gN3Ojyl7AoT72kIvwPfGozKm6Rdqa_W8EjEF1jebi4s/edit?usp=sharing) that you can use in your talk.
 
 
 ## Keynote
 
-This is the base template for [Keynote](#) that you can use in your talk.
+This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can use in your talk.
 
 
 ## Resources
 
 ### Fonts
 
-- For headlines we use [Poppins](#). You can download it in [Google Font](#)
-- For paragraphs, lists, tables...we use [Sosurce Sans Pro](#). You can download it in [Google Font](#)
-- For code we use [Fira code](#). You can download it in [Google Font](#)
+- For headlines we use [Poppins](https://fonts.google.com/specimen/Poppins). You can download it in [Google Font](https://fonts.google.com/specimen/Poppins)
+- For paragraphs, lists, tables...we use [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). You can download it in [Google Font](https://fonts.google.com/specimen/Source+Sans+Pro)
+- For code we use [Fira code](https://fonts.google.com/specimen/Fira+Code). You can download it in [Google Font](https://fonts.google.com/specimen/Fira+Code)
 
 ### Colors
 
@@ -43,4 +43,6 @@ This is the base template for [Keynote](#) that you can use in your talk.
 
 ### Other
 
-- [https://carbon.now.sh/](#):Code formatting
+- [Carbon](#): Code formatting
+- [Unsplash](https://https://unsplash.com/): Free images
+- [Font Awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free/): Free icons
