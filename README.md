@@ -9,7 +9,7 @@ For our event we have prepared 3 basic templates with the colors and fonts of ou
 
 This is the base template for [reveal.js](https://revealjs.com/) that you can use in your talk.
 
-We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk. You can see it here
+We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk. [You can see it here](https://47deg.github.io/scalacon21-slides/)
 
 ### Istallation
 
@@ -43,6 +43,6 @@ This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can
 
 ### Other
 
-- [Carbon](#): Code formatting
-- [Unsplash](https://https://unsplash.com/): Free images
+- [Carbon](https://carbon.now.sh/): Code formatting
+- [Unsplash](https://unsplash.com/): Free images
 - [Font Awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free/): Free icons
