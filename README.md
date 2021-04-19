@@ -43,6 +43,7 @@ This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can
 
 ### Other
 
+- [Reveal.js](https://revealjs.com/): Reveal.js documentation
 - [Carbon](https://carbon.now.sh/): Code formatting
 - [Unsplash](https://unsplash.com/): Free images
 - [Font Awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free/): Free icons
