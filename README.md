@@ -1,5 +1,5 @@
-# Scalacon Slides
-For our event we have prepared 3 basic templates with the colors and fonts of our conference that you can use for your talk. The platforms we have used are
+# ScalaCon Slides
+Want to make your slides look extra sharp at ScalaCon? While use is option, we've prepared three basic templates with the branding of ScalaCon that you are invited to use for your talk. The platforms we have to offer templates for are: 
 
 - Reveal.js
 - Google Slides
@@ -9,9 +9,9 @@ For our event we have prepared 3 basic templates with the colors and fonts of ou
 
 This is the base template for [reveal.js](https://47deg.github.io/scalacon21-slides/) that you can use in your talk.
 
-We use markdown. To add the content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in the talk.
+We use markdown. To add content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in your talk.
 
-### Istallation
+### Installation
 
 1. Install the dependencies: `npm install`
 2. Launch the server: `npm start`
@@ -31,9 +31,9 @@ This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can
 
 ### Fonts
 
-- For headlines we use [Poppins](https://fonts.google.com/specimen/Poppins). You can download it in [Google Font](https://fonts.google.com/specimen/Poppins)
-- For paragraphs, lists, tables...we use [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). You can download it in [Google Font](https://fonts.google.com/specimen/Source+Sans+Pro)
-- For code we use [Fira code](https://fonts.google.com/specimen/Fira+Code). You can download it in [Google Font](https://fonts.google.com/specimen/Fira+Code)
+- For headlines, we use [Poppins](https://fonts.google.com/specimen/Poppins). You can download it from [Google Fonts](https://fonts.google.com/specimen/Poppins)
+- For paragraphs, lists, tables...we use [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). You can download it from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
+- For code, we use [Fira code](https://fonts.google.com/specimen/Fira+Code). You can download it from [Google Fonts](https://fonts.google.com/specimen/Fira+Code)
 
 ### Colors
 
