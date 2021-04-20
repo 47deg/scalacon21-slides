@@ -1,5 +1,5 @@
 # ScalaCon Slides
-Want to make your slides look extra sharp at ScalaCon? While use is option, we've prepared three basic templates with the branding of ScalaCon that you are invited to use for your talk. The platforms we have to offer templates for are: 
+Want to make your slides look extra sharp at ScalaCon? While use of these is optional, we've prepared three basic templates with the branding of ScalaCon that you are invited to use for your talk. The platforms we have to offer templates for are: 
 
 - Reveal.js
 - Google Slides
