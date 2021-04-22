@@ -9,10 +9,7 @@ Want to make your slides look extra sharp at ScalaCon? While use of these is opt
 
 ## Reveal.js
 
-This is the base template for [reveal.js](reveal) that you can use in your talk.
-
-We use markdown. To add content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in your talk.
-
+This is the base template for [reveal.js](/reveal) that you can use in your talk.
 
 ## Google Slides
 
