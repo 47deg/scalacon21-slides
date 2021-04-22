@@ -1,5 +1,5 @@
 # ScalaCon Slides
-Want to make your slides look extra sharp at ScalaCon? While use of these is optional, we've prepared three basic templates with the branding of ScalaCon that you are invited to use for your talk. The platforms we have to offer templates for are: 
+Want to make your slides look extra sharp at ScalaCon? While use of these is optional, we've prepared three basic templates with the branding of ScalaCon that you are invited to use for your talk. The platforms we have to offer templates for are:
 
 - Reveal.js
 - Google Slides
@@ -7,7 +7,7 @@ Want to make your slides look extra sharp at ScalaCon? While use of these is opt
 
 ## Reveal.js
 
-This is the base template for [reveal.js](https://47deg.github.io/scalacon21-slides/) that you can use in your talk.
+This is the base template for [reveal.js](https://47deg.github.io/scalacon21-slides/reveal) that you can use in your talk.
 
 We use markdown. To add content, you must update the `slides/01.md`. In this file, we have a list of all the html elements that you can use in your talk.
 
