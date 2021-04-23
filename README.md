@@ -25,9 +25,9 @@ This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can
 
 ### Fonts
 
-- For headlines, we use [Poppins](https://fonts.google.com/specimen/Poppins). You can download it from [Google Fonts](https://fonts.google.com/specimen/Poppins)
-- For paragraphs, lists, tables...we use [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). You can download it from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
-- For code, we use [Fira code](https://fonts.google.com/specimen/Fira+Code). You can download it from [Google Fonts](https://fonts.google.com/specimen/Fira+Code)
+- Poppins for headlines. [Download from Google Fonts](https://fonts.google.com/specimen/Poppins)
+- Source Sans Pro for paragraphs, lists, tables. [Download from Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
+- Fira Code for code. [Download from Google Fonts](https://fonts.google.com/specimen/Fira+Code)
 
 ### Colors
 
@@ -37,7 +37,6 @@ This is the base template for [Keynote](keynote/Scalacon-slide.zip) that you can
 
 ### Other
 
-- [Reveal.js](https://revealjs.com/): Reveal.js documentation
 - [Carbon](https://carbon.now.sh/): Code formatting
 - [Unsplash](https://unsplash.com/): Free images
 - [Font Awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free/): Free icons

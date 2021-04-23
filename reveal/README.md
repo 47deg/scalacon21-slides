@@ -6,3 +6,4 @@ We use markdown. To add content, you must update the `slides/01.md`. In this fil
 
 1. Install the dependencies: `npm install`
 2. Launch the server: `npm start`
+3. [Reveal.js](https://revealjs.com/): Reveal.js documentation
